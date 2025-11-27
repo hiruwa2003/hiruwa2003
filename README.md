@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hirusha Dilshan</h1>
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 
-<p align="left"> <img src="(https://images.search.yahoo.com/images/view;_ylt=Awr.xjax_SdpMg4glRSJzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzVkMGUyMjZkZTJlYWY2NTY4Y2JhOTU5NWE5M2IwOWJmBGdwb3MDMTA4BGl0A2Jpbmc-?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dfull%2Bstack%2Bdeveloper%26type%3DE210US91215G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26nost%3D1%26tab%3Dorganic%26ri%3D108&w=800&h=445&imgurl=www.namasteui.com%2Fwp-content%2Fuploads%2F2019%2F07%2FFull-Stack-Developer.jpg&rurl=https%3A%2F%2Fwww.namasteui.com%2Ftag%2Ffull-stack%2F&size=42KB&p=full+stack+developer&oid=5d0e226de2eaf6568cba9595a93b09bf&fr2=piv-web&fr=mcafee&tt=Full+Stack+Archives+-+Namaste+UI&b=61&ni=21&no=108&ts=&tab=organic&sigr=8k7V93rMAw6X&sigb=NiCgOJpFVQb.&sigi=f1rOklPGx71u&sigt=zZVgh5DpMv_Y&.crumb=axMvTzzb/2e&fr=mcafee&fr2=piv-web&type=E210US91215G0)" alt="hiruwa2003" /> </p>
-
-<img src="(https://images.search.yahoo.com/images/view;_ylt=Awr.xjax_SdpMg4glRSJzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzVkMGUyMjZkZTJlYWY2NTY4Y2JhOTU5NWE5M2IwOWJmBGdwb3MDMTA4BGl0A2Jpbmc-?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dfull%2Bstack%2Bdeveloper%26type%3DE210US91215G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26nost%3D1%26tab%3Dorganic%26ri%3D108&w=800&h=445&imgurl=www.namasteui.com%2Fwp-content%2Fuploads%2F2019%2F07%2FFull-Stack-Developer.jpg&rurl=https%3A%2F%2Fwww.namasteui.com%2Ftag%2Ffull-stack%2F&size=42KB&p=full+stack+developer&oid=5d0e226de2eaf6568cba9595a93b09bf&fr2=piv-web&fr=mcafee&tt=Full+Stack+Archives+-+Namaste+UI&b=61&ni=21&no=108&ts=&tab=organic&sigr=8k7V93rMAw6X&sigb=NiCgOJpFVQb.&sigi=f1rOklPGx71u&sigt=zZVgh5DpMv_Y&.crumb=axMvTzzb/2e&fr=mcafee&fr2=piv-web&type=E210US91215G0)" alt="hiruwa2003" />
-
 - 🌱 I’m currently learning **php,javascript,html,css,React**
 
 - 📫 How to reach me **dilshanhirusha093@gmail.com**
