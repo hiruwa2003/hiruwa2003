@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Hirusha Dilshan</h1>
-<h3 align="center">Aspiring Backend Developer From Sri Lanka</h3>
+<h3 align="center">Interested in Backend Development with Java & MERN Stack</h3>
 
 -  I’m currently learning **Java,php,javascript,html,css,React,python**
 
